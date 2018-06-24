@@ -1,0 +1,6 @@
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienPhapAnh\bin\TuDienPhapAnh.dll.config
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienPhapAnh\bin\TuDienPhapAnh.dll
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienPhapAnh\bin\TuDienPhapAnh.pdb
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienPhapAnh\obj\Debug\TuDienPhapAnh.csproj.CoreCompileInputs.cache
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienPhapAnh\obj\Debug\TuDienPhapAnh.dll
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienPhapAnh\obj\Debug\TuDienPhapAnh.pdb

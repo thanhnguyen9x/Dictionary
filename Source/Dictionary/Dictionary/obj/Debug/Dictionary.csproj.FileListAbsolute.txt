@@ -1,0 +1,20 @@
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+D:\Going to college\16HCB- Autumn\T2-LTHD\1642092-BTCN01_10\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

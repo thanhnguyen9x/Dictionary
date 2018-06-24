@@ -1,0 +1,7 @@
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienAnhViet\bin\TuDienAnhViet.dll.config
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienAnhViet\bin\TuDienAnhViet.dll
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienAnhViet\bin\TuDienAnhViet.pdb
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienAnhViet\obj\Debug\TuDienAnhViet.csprojResolveAssemblyReference.cache
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienAnhViet\obj\Debug\TuDienAnhViet.csproj.CoreCompileInputs.cache
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienAnhViet\obj\Debug\TuDienAnhViet.dll
+C:\Users\Totoro\Desktop\1642092-BTCN01_10\DichVuTuDien\TuDienAnhViet\obj\Debug\TuDienAnhViet.pdb
